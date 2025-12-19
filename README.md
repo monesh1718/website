@@ -1,4 +1,4 @@
-<img width="1920" height="890" alt="t5" src="https://github.com/user-attachments/assets/bb5cd737-a767-4697-b221-b98813bcb4bb" /><img width="1920" height="1025" alt="front2" src="https://github.com/user-attachments/assets/f671d2cf-4ca6-4ccb-b0a1-83d64c45ff25" /><img width="1920" height="914" alt="home" src="https://github.com/user-attachments/assets/da8e93f2-44d6-4471-84de-28f726f7bb3a" /># Ex.06 Restaurant Website
+
 # Date:9/12/2025
 # AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
