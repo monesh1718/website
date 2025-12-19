@@ -27,7 +27,7 @@ Publish the website in the given URL.
 
 # PROGRAM:
 food.html
-
+```
 <html>
     <head>
         <title> web page</title>
@@ -83,7 +83,7 @@ food.html
         </div>
         <div id="footer">
             <ul>
-                <h4 align="center">designed by NITHISH R </h4>
+                <h4 align="center">designed by monsh.s </h4>
             </ul>
         </div>
     </body>
@@ -334,7 +334,7 @@ body{
     padding-top: 10px;
     color: white;
 }
-
+```
 # OUTPUT:
 <img width="1920" height="1080" alt="front1" src="https://github.com/user-attachments/assets/d6ebf97d-d09d-46a6-924b-d889a9bb3366" />
 <img width="1920" height="1025" alt="front2" src="https://github.com/user-attachments/assets/29ecd0ef-cc20-4563-8793-7e54830fd040" />
