@@ -146,8 +146,8 @@ contactus.html
     </head>
     <body bgcolor="yellow">
         <h2>CONTACT US THROUGH</h2>
-        <h3>Email:homefood@gmail.com</h3>
-        <h3>Phone: 9898232312</h3>
+        <h3>Email:naveenkhan@gmail.com</h3>
+        <h3>Phone: 6380740029</h3>
     </body>
 </html>
 
@@ -342,7 +342,8 @@ body{
 <img width="1920" height="1080" alt="menu" src="https://github.com/user-attachments/assets/ed4d0de7-c98e-401a-b5eb-537bc12fa19c" />
 <img width="1920" height="1080" alt="about" src="https://github.com/user-attachments/assets/ecc0a5f0-9b3d-45ca-87ff-211d43dfd215" />
 <img width="1920" height="1080" alt="t4" src="https://github.com/user-attachments/assets/28618e13-7623-417e-b613-bfe0d36188c2" />
-<img width="1920" height="1080" alt="t5" src="https://github.com/user-attachments/assets/debe269f-dba0-41a7-a0b4-b42294c85131" />
+<img width="1920" height="977" alt="t5" src="https://github.com/user-attachments/assets/04cb7af6-58d5-4617-8ea2-4777cf1c5f6a" />
+
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
