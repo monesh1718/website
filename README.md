@@ -1,4 +1,4 @@
-# Ex.06 Restaurant Website
+<img width="1920" height="890" alt="t5" src="https://github.com/user-attachments/assets/bb5cd737-a767-4697-b221-b98813bcb4bb" /><img width="1920" height="1025" alt="front2" src="https://github.com/user-attachments/assets/f671d2cf-4ca6-4ccb-b0a1-83d64c45ff25" /><img width="1920" height="914" alt="home" src="https://github.com/user-attachments/assets/da8e93f2-44d6-4471-84de-28f726f7bb3a" /># Ex.06 Restaurant Website
 # Date:9/12/2025
 # AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -336,14 +336,19 @@ body{
 }
 ```
 # OUTPUT:
-<img width="1920" height="1080" alt="front1" src="https://github.com/user-attachments/assets/d6ebf97d-d09d-46a6-924b-d889a9bb3366" />
-<img width="1920" height="1025" alt="front2" src="https://github.com/user-attachments/assets/29ecd0ef-cc20-4563-8793-7e54830fd040" />
-<img width="1920" height="1080" alt="home" src="https://github.com/user-attachments/assets/55c668ae-81b9-4cd2-bec3-7ccf6eef1d48" />
-<img width="1920" height="1080" alt="menu" src="https://github.com/user-attachments/assets/ed4d0de7-c98e-401a-b5eb-537bc12fa19c" />
-<img width="1920" height="1080" alt="about" src="https://github.com/user-attachments/assets/ecc0a5f0-9b3d-45ca-87ff-211d43dfd215" />
-<img width="1920" height="1080" alt="t4" src="https://github.com/user-attachments/assets/28618e13-7623-417e-b613-bfe0d36188c2" />
-<img width="1920" height="977" alt="t5" src="https://github.com/user-attachments/assets/04cb7af6-58d5-4617-8ea2-4777cf1c5f6a" />
+<img width="1920" height="1080" alt="front1" src="https://github.com/user-attachments/assets/013426ae-e9b7-4b90-b25f-5a3b9e9abb32" />
 
+<img width="1920" height="1025" alt="front2" src="https://github.com/user-attachments/assets/37cbf5c3-a837-4c4f-a42f-dbc75a58912a" />
+
+<img width="1920" height="914" alt="home" src="https://github.com/user-attachments/assets/a6346c96-6b79-4df2-9436-56018fc11f24" />
+
+<img width="1920" height="904" alt="menu" src="https://github.com/user-attachments/assets/f835bcae-45ea-43b2-ae82-61b431a073ea" />
+
+<img width="1920" height="938" alt="about" src="https://github.com/user-attachments/assets/a20f9c2a-2186-4bca-aea8-0aede0d06154" />
+
+<img width="1920" height="956" alt="t4" src="https://github.com/user-attachments/assets/933e8024-d7a5-4982-b9c6-5451ab231fa9" />
+
+<img width="1920" height="890" alt="t5" src="https://github.com/user-attachments/assets/877405a7-a5e3-4293-8672-01d6134e07c9" />
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
